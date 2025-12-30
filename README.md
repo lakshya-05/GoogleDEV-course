@@ -6,3 +6,7 @@
 - [Machine Learning Crash Course: Classification](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/classification)
 - [Machine Learning Crash Course: Numerical data ](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/numerical-data)
 - [Machine Learning Crash Course: Categorical data ](https://developers.google.com/profile/badges/playlists/machine-learning-crash-course/categorical-data)
+
+
+### NVIDIA
+- [Deploy Faster Generative AI models with NVIDIA NIM on GKE](https://developers.google.com/profile/badges/playlists/nvidia-deploy-with-gen-ai)
