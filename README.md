@@ -10,3 +10,4 @@
 
 ### NVIDIA
 - [Deploy Faster Generative AI models with NVIDIA NIM on GKE](https://developers.google.com/profile/badges/playlists/nvidia-deploy-with-gen-ai)
+- [Intro to Inference: How to Run AI Models on a GPU](https://developers.google.com/profile/badges/playlists/ai-models-on-gpu-intro)
